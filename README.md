@@ -3,9 +3,10 @@
 
 
 This repository contains all the projects I completed for Business Analytics Nanodegree Program provided by Udacity and Misk Academy.
+Technologies used: SQL, Excel, Tableau
 
-Project Syllabus
 
+Projects Syllabus
 
 
 
